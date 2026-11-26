@@ -56,13 +56,13 @@ Advancing culturally informed leadership development for Black public servants O
 
 ## Source 4
 
-**Institution:** Federal Economic Development Agency for Southern Ontario
+**Institution:** Shared Services Canada
 
-**Response:** `Sa433711e-R0049-Q19-2` — Q19, answer slot 2; source row 49; field `f179`.
+**Response:** `Sa433711e-R0096-Q19-3` — Q19, answer slot 3; source row 96; field `f180`.
 
 ### Original response
 
-To ensure that Canadians of all origins have an equal opportunity to obtain employment and advancement, Foodpreneur Lab is delivering incubator and accelerator programming that helps Black and diverse entrepreneurs overcome systemic barriers, access business supports, and grow their enterprises through a $2 million non-repayable contribution from FedDev Ontario's Regional Innovation Ecosystem program. By strengthening the entrepreneurial ecosystem for these founders, the project promotes economic inclusion, supports greater participation of underrepresented groups in Canada's economy, and fosters a more equitable and diverse innovation ecosystem. The initiative contributes to the objectives of the Canadian Multiculturalism Act by helping ensure that entrepreneurs from diverse cultural backgrounds have access to opportunities, resources, and networks needed to succeed. Foodpreneur Lab is a Toronto-based not-for-profit organization dedicated to advancing racial and gender equity in Canada's food and beverage sector, with a particular focus on Black entrepreneurs and other underrepresented communities.
+​Supports for participation and career advancement. SSC’s networks supported participation and career advancement by identifying barriers and connecting employees with practical supports. Through the Indigenous Information Technology Apprenticeship Program, the Indigenous Circle helped provide apprentices with technical peer support, mentoring, weekly wellness check-ins, and management intervention when challenges arose. SSC continued to offer employment to graduates, who could then access the IT Professionals Development Program for continued career development. The Women’s Network supported economic participation through a financial literacy workshop attended by approximately 633 participants. Its collaboration with the Persons with Disabilities Network also raised awareness of accessibility barriers. CFOPB’s Employee Engagement and Inclusion Committee created structured volunteer opportunities for employees from diverse backgrounds to help shape workplace initiatives. Together, these efforts addressed barriers related to employment, development, accessibility, and participation. Objectives advanced: (a) equal employment and advancement; (b) enabling participation; and (f) responding to Canada’s multicultural reality.
 
 ## Source 5
 
@@ -99,13 +99,13 @@ EDI Mentorship and Talent Development: The Agency’s Indigenous Mentoring Initi
 
 ## Source 8
 
-**Institution:** Natural Resources Canada
+**Institution:** The Business Development Bank of Canada (BDC)
 
-**Response:** `Sa433711e-R0072-Q19-2` — Q19, answer slot 2; source row 72; field `f179`.
+**Response:** `Sa433711e-R0007-Q19-2` — Q19, answer slot 2; source row 7; field `f179`.
 
 ### Original response
 
-Success 2: The Visible Minority Advisory Council (VMAC) Employee Development Fund and Executive Mentorship Program helped address barriers to professional development and career advancement for equity-deserving employees. In 2025–26, 13 grants were awarded from 52 applications, and the Executive Mentorship Program connected 23 mentors with 27 mentees. These initiatives advanced objectives (a), (b) and (c) by supporting equitable access to development opportunities, fostering participation and helping employees build skills, networks and career opportunities.
+BDC advanced its Indigenous Talent Strategy through the implementation of Indigenous Career Pathways, a structured framework designed to support Indigenous employees throughout their career journey, from recruitment and onboarding to development, advancement, and retention. Rooted in principles of equity, cultural safety, and reconciliation, the framework includes culturally informed onboarding, buddy and mentorship programs, regular career check-ins, and dedicated supports to promote meaningful career growth and progression. These efforts were reinforced by enterprise-wide initiatives such as mandatory 4 Seasons of Reconciliation training and strengthened through partnerships with Indigenous Works, Indspire, the Indigenous Intern Leadership Program, Indigenous Friends Association, Influence, Indigenous post-secondary institutions, and community networks. Together, these initiatives have helped strengthen Indigenous talent pipelines, support career progression, and foster a workplace culture that values Indigenous knowledge, perspectives, and contributions. *Multiculturalism Act Objectives Advanced: (a) Equal opportunity for employment and advancement (f) Generally carrying on activities in a way that is sensitive and responsive to Canada's multicultural reality (b) Enabling communities of all origins to contribute to Canada's continuing evolution.
 
 ## Source 9
 
