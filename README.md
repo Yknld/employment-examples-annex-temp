@@ -19,4 +19,8 @@ These examples illustrate practices relevant to employment equity and multicultu
 
 For a printable table, open [annex.html](annex.html). Original responses and exact source identifiers are in [SOURCES.md](SOURCES.md). No complete survey dataset is included.
 
+## Additional initiatives
+
+[View 10 additional employment initiatives](ADDITIONAL_INITIATIVES.md), with the same five columns and source references kept separately.
+
 This repository is intended for temporary review. No automatic deletion has been scheduled.
